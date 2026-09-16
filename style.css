@@ -1,1 +1,22 @@
+
+#top {
+    color: teal;
+}
+
+a:hover {
+    background-color: #b1c6d9;
+}
+
+
+@media (max-width: 300px) {
+    body {
+        font-size: 28px;
+    }
+}
+
+
+.bold {
+    font-weight: bold;
+}
+
 /* Add your styles here. */
